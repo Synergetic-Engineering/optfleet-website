@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: OptFleet
 subtitle: "Helping you get more out of your asset fleets"
-url: "http://synergetic-engineering.github.io" # the base hostname & protocol for your site
+url: "https://optfleet.com" # the base hostname & protocol for your site
 baseurl: ""
 cover: "img/cover.jpg"
 logo: "img/logo.png"
