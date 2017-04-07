@@ -20,6 +20,7 @@ url: "https://optfleet.com" # the base hostname & protocol for your site
 baseurl: ""
 cover: "img/cover.jpg"
 logo: "img/logo.png"
+email: info@optfleet.com
 
 # Build settings
 markdown: kramdown
